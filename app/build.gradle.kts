@@ -81,6 +81,8 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     implementation ("com.vk:android-sdk-core:4.1.0")
     implementation ("com.vk:android-sdk-api:4.1.0")
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-scalars:2.9.0")
 //    implementation ("com.vk:oauth-vk:4.1.0")
 //    implementation ("com.vk:vksdk-pub:4.1.0")
 }
