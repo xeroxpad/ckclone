@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">VkClone</string>
+    <string name="sign_in">Вход ВКонтакте</string>
+    <string name="phone_or_mail">Телефон или почта</string>
+    <string name="login">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="id_app">51833964</string>
+    <string name="vk_client_secret">ipmEdGX3umK9ddsZjjIE</string>
+
+
 </resources>
